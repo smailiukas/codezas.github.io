@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/C0DEZAS/codezas.github.io/static/css/main.d6bd69a8.css",
+    "main.js": "/C0DEZAS/codezas.github.io/static/js/main.c0f94db9.js",
+    "static/media/logo.png": "/C0DEZAS/codezas.github.io/static/media/logo.5e46924a02c52d6398fe.png",
+    "static/media/BOLD_OUTLINE.otf": "/C0DEZAS/codezas.github.io/static/media/BOLD_OUTLINE.9540df7481ae3f22d160.otf",
+    "index.html": "/C0DEZAS/codezas.github.io/index.html",
+    "main.d6bd69a8.css.map": "/C0DEZAS/codezas.github.io/static/css/main.d6bd69a8.css.map",
+    "main.c0f94db9.js.map": "/C0DEZAS/codezas.github.io/static/js/main.c0f94db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6bd69a8.css",
+    "static/js/main.c0f94db9.js"
+  ]
+}
